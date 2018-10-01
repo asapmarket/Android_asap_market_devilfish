@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">devilfish</string>
+    <string name="number_part">%1$d/%2$d</string>
+    <!-- 下拉刷新 -->
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">努力加载中</string>
+    <string name="xlistview_footer_hint_normal">上拉加载更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+    <string name="select">请选择</string>
+    <string name="camera_sdcard_not_found">未找到存储卡，无法存储照片！</string>
+
+    <string name="verify_code_sending">正在发送(%1$s)</string>
+
+    <string name="register_success">注册成功，请登录</string>
+</resources>

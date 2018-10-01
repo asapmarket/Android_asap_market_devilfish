@@ -1,0 +1,235 @@
+[
+    {
+        "outputFile": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-iw/values-iw.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 60,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 113,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 324,
+                        "endColumn": 113,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 108,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 108,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 78,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 78,
+                        "endOffset": 621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 468,
+                    "endColumn": 103,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 103,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 572,
+                    "endColumn": 114,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 114,
+                        "endOffset": 840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 105,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 845,
+                        "endColumn": 105,
+                        "endOffset": 946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 87,
+                    "endOffset": 876
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endColumn": 87,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 881,
+                    "endColumn": 84,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1039,
+                        "endColumn": 84,
+                        "endOffset": 1119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endColumn": 86,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 86,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endColumn": 82,
+                    "endOffset": 1131
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 82,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1136,
+                    "endColumn": 97,
+                    "endOffset": 1229
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-iw/values-iw.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 97,
+                        "endOffset": 1387
+                    }
+                }
+            }
+        ]
+    }
+]

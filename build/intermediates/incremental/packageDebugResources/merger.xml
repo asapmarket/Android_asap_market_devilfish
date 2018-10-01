@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res"/><source path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/generated/res/rs/debug"/><source path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res"><file name="slide_in_from_top" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/anim/slide_in_from_top.xml" qualifiers="" type="anim"/><file name="slide_out_to_top" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/anim/slide_out_to_top.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/anim/slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_bottom" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/anim/slide_in_from_bottom.xml" qualifiers="" type="anim"/><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values-zh-rCN/arrays.xml" qualifiers="zh-rCN"><string-array name="select_language">
+        <item>中文</item>
+        <item>英文</item>
+    </string-array><string-array name="select_icon_location">
+        <item>选择本地图片</item>
+        <item>拍照</item>
+    </string-array></file><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values-zh-rCN/strings.xml" qualifiers="zh-rCN"><string name="camera_sdcard_not_found">未找到存储卡，无法存储照片！</string><string name="register_success">注册成功，请登录</string><string name="xlistview_footer_hint_ready">松开载入更多</string><string name="number_part">%1$d/%2$d</string><string name="verify_code_sending">正在发送(%1$s)</string><string name="select">请选择</string><string name="xlistview_header_hint_loading">努力加载中</string><string name="app_name">devilfish</string><string name="xlistview_header_hint_normal">下拉刷新</string><string name="xlistview_header_hint_ready">松开刷新数据</string><string name="xlistview_footer_hint_normal">上拉加载更多</string></file><file name="indicator_bg_bottom" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable/indicator_bg_bottom.xml" qualifiers="" type="drawable"/><file name="anim_loading" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable/anim_loading.xml" qualifiers="" type="drawable"/><file name="indicator_bg_top" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable/indicator_bg_top.xml" qualifiers="" type="drawable"/><file name="icon_loading_fail" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable/icon_loading_fail.png" qualifiers="" type="drawable"/><file name="bg_progressbar" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable/bg_progressbar.xml" qualifiers="" type="drawable"/><file name="bg_list_selector" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable/bg_list_selector.xml" qualifiers="" type="drawable"/><file name="pull_to_refresh_header_vertical" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/layout/pull_to_refresh_header_vertical.xml" qualifiers="" type="layout"/><file name="layout_indicator" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/layout/layout_indicator.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_horizontal" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/layout/pull_to_refresh_header_horizontal.xml" qualifiers="" type="layout"/><file name="xlistview_header" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/layout/xlistview_header.xml" qualifiers="" type="layout"/><file name="xlistview_footer" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/layout/xlistview_footer.xml" qualifiers="" type="layout"/><file name="layout_load_more" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/layout/layout_load_more.xml" qualifiers="" type="layout"/><file name="layout_indeterminate_dialog" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/layout/layout_indeterminate_dialog.xml" qualifiers="" type="layout"/><file name="list_item_pictures" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/layout/list_item_pictures.xml" qualifiers="" type="layout"/><file name="activity_pictures" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/layout/activity_pictures.xml" qualifiers="" type="layout"/><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values/vpi__defaults.xml" qualifiers=""><dimen name="default_title_indicator_title_padding">5dp</dimen><dimen name="default_circle_indicator_stroke_width">1dp</dimen><dimen name="default_title_indicator_footer_indicator_height">4dp</dimen><bool name="default_circle_indicator_centered">true</bool><color name="default_circle_indicator_page_color">#ffffff</color><dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen><dimen name="default_circle_indicator_radius">3dp</dimen><integer name="default_underline_indicator_fade_length">400</integer><integer name="default_circle_indicator_orientation">0</integer><integer name="default_underline_indicator_fade_delay">300</integer><integer name="default_title_indicator_footer_indicator_style">2</integer><color name="default_underline_indicator_selected_color">#FF33B5E5</color><dimen name="default_line_indicator_gap_width">4dp</dimen><color name="default_line_indicator_selected_color">#FF33B5E5</color><bool name="default_circle_indicator_snap">false</bool><color name="default_line_indicator_unselected_color">#FFBBBBBB</color><color name="default_title_indicator_selected_color">#FFFFFFFF</color><dimen name="default_line_indicator_line_width">12dp</dimen><dimen name="default_title_indicator_clip_padding">4dp</dimen><dimen name="default_title_indicator_footer_line_height">2dp</dimen><integer name="default_title_indicator_line_position">0</integer><dimen name="default_title_indicator_text_size">15dp</dimen><dimen name="default_title_indicator_footer_padding">7dp</dimen><color name="default_title_indicator_text_color">#BBFFFFFF</color><bool name="default_title_indicator_selected_bold">true</bool><dimen name="default_line_indicator_stroke_width">1dp</dimen><dimen name="default_title_indicator_top_padding">7dp</dimen><color name="default_circle_indicator_stroke_color">#ffffff</color><color name="default_title_indicator_footer_color">#FF33B5E5</color><bool name="default_line_indicator_centered">true</bool><color name="default_circle_indicator_fill_color">#999999</color><bool name="default_underline_indicator_fades">true</bool></file><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values/colors.xml" qualifiers=""><color name="black_deep">#FF000000</color><color name="alpha_black_30">#48000000</color><color name="alpha_white_25">#40FFFFFF</color><color name="subscribe_item_drag_bg">#fff5f5f5</color><color name="subscribe_item_drag_stroke">#ffd2d2d2</color><color name="alpha_black_5">#08000000</color><color name="btn_gray_normal">#c0c0c0</color><color name="error_item_color">#F6EBE6</color><color name="default_background">#f0f0f0</color><color name="subscribe_item_text_color_pressed_night">#ff303030</color><color name="calendar_text_selected">#ffffffff</color><color name="transparent">#00000000</color><color name="calendar_highlighted_day_bg">#ccffcc</color><color name="alpha_white_30">#4CFFFFFF</color><color name="alpha_black_40">#64000000</color><color name="grid_state_pressed">#1Affffff</color><color name="subscribe_item_normal_bg">#fff5f5f5</color><color name="bottom_text_color_normal">#ffffff</color><color name="btn_green_noraml">#68C270</color><color name="subscribe_item_disabled_stroke">#ffd9d9d9</color><color name="calendar_active_month_bg">#fff5f7f9</color><color name="calendar_last_month">#E2E2E2</color><color name="calendar_divider">#ffbababa</color><color name="btn_gray_pressed_status">#b5b5b6</color><color name="white">#FFFFFF</color><color name="list_item_selected">#bdbdbd</color><color name="btn_white_pressed">#b5b5b6</color><color name="btn_blue_pressed">#0066FF</color><color name="alpha_black_50">#80000000</color><color name="calendar_inactive_month_bg">#ffd7d9db</color><color name="category_subscribe_text">#ffffffff</color><color name="black">#000000</color><color name="psts_text_selected_color">#f03737</color><color name="btn_login_pressed">#46678d</color><color name="title_text_color">#ffffffff</color><color name="voip_interface_text_color">#bababa</color><color name="default_text">#ff454545</color><color name="common_botton_bar_blue">#2ea7e0</color><color name="color_2196f3">#2196f3</color><color name="color_ff544a">#ff544a</color><color name="alpha_white_50">#80FFFFFF</color><color name="divider_list">#d4d4d4</color><color name="subscribe_tip_text">#ff2e2e2e</color><color name="calendar_selected_day_bg">#ff379bff</color><color name="subscribe_activity_bg">#ffefefef</color><color name="btn_register_normal">#ffffff</color><color name="color_808080">#808080</color><color name="alpha_black_60">#AA000000</color><color name="drawer_item_bg">#ff5d5d5d</color><color name="common_bg">#fcfcfc</color><color name="color_F2F7FD">#F2F7FD</color><color name="calendar_bg">#ffffffff</color><color name="light_blue">#4C74A1</color><color name="calendar_text_unselectable">#7f778088</color><color name="alpha_black_75">#BF000000</color><color name="calendar_text_active">#ff778088</color><color name="default_text_night">#ff747474</color><color name="btn_answer_pressed">#4ebcd3</color><color name="bottom_bar_bg">#F8F8F8</color><color name="app_color">#2196f3</color><color name="subscribe_item_text_color_pressed">#ffb9b9b9</color><color name="common_top_bar_blue">#4ebcd3</color><color name="btn_register_pressed">#00acff</color><color name="btn_logout_pressed">#DA5A4D</color><item name="subscribe_item_text_color_normal" type="color">@color/default_text</item><color name="calendar_text_inactive">#40778088</color><color name="subscribe_bg">#fff5f5f5</color><color name="btn_white_normal">#f7f8f8</color><color name="drawer_line_color">#ff444444</color><color name="alpha_white_75">#BFFFFFFF</color><color name="alpha_100">#00FFFFFF</color><color name="subscribe_seperate_line">#ffcdcdcd</color><color name="alpha_black_80">#CC000000</color><color name="subscribe_item_selected_stroke_night">#ffbc494d</color><color name="light_red">#F46452</color><color name="grid_state_focused">#80000000</color><color name="orange">#FC804C</color><color name="calendar_selected_range_bg">#ff96caff</color><color name="alpha_white_80">#CCFFFFFF</color><item name="subscribe_item_text_color_normal_night" type="color">@color/default_text_night
+    </item><color name="btn_pressed_green_solid">#B6DA53</color><color name="gray_normal">#666667</color><color name="subscribe_item_pressed_stroke">#ffcdcdcd</color><color name="subscribe_item_normal_stroke">#ffcdcdcd</color><color name="alpha_black_10">#19000000</color><color name="btn_logout_normal">#d33f3f</color><color name="gray_f0f0f0">#f0f0f0</color><color name="btn_green_pressed">#6FCD78</color><color name="calendar_week">#A8A8A8</color><color name="gray_pressed">#b5b5b6</color><color name="alpha_white_90">#E5FFFFFF</color><color name="light_black_9">#999999</color><color name="btn_login_normal">#00acff</color><color name="subscribe_item_pressed_bg">#fff9f9f9</color><color name="bottom_bar_normal_bg">#2D2F31</color><color name="light_black_6">#666666</color><color name="top_bar_color">#30AFE3</color><color name="light_black_3">#333333</color><color name="common_bottom_bar_selected_bg">#161718</color><color name="alpha_black_20">#33000000</color><color name="btn_blue_normal">#1e90ff</color><color name="btn_answer_normal">#2dafa3</color><color name="title_color">#1a1a1a</color><color name="top_bar_normal_bg">#00acff</color><color name="btn_gray_pressed">#666667</color><color name="common_bottom_bar_normal_bg">#2d2f31</color><color name="subscribe_item_disabled_bg">#ffefefef</color><color name="subscribe_item_selected_stroke">#ffcc3131</color><color name="oa_divider">#d4d4d4</color><color name="subscribe_item_selected_bg">#ffffffff</color></file><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values/vpi__colors.xml" qualifiers=""><color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color><color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color><color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color><color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color><color name="vpi__background_holo_dark">#ff000000</color><color name="vpi__background_holo_light">#fff3f3f3</color></file><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values/dimens.xml" qualifiers=""><dimen name="indicator_corner_radius">12dp</dimen><dimen name="indicator_right_padding">10dp</dimen><dimen name="indicator_internal_padding">4dp</dimen><dimen name="header_footer_top_bottom_padding">12dp</dimen><dimen name="dimen_2">2dp</dimen><dimen name="header_footer_left_right_padding">24dp</dimen></file><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values/arrays.xml" qualifiers=""><string-array name="select_icon_location">
+        <item>Choose Image</item>
+        <item>Camera</item>
+    </string-array><string-array name="select_language">
+        <item>简体中文</item>
+        <item>English</item>
+    </string-array></file><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values/vpi__styles.xml" qualifiers=""><style name="Widget">
+    </style><style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+    </style><style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style></file><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values/styles.xml" qualifiers=""><style name="TransparentDialog" parent="android:Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style><style name="NromalDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style><style name="CircularProgress">
+    </style></file><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values/strings.xml" qualifiers=""><string name="xlistview_footer_hint_normal">pull to load more</string><string name="xlistview_header_hint_normal">pull to refresh</string><string name="verify_code_sending">sending code(%1$s)</string><string name="number_part">%1$d/%2$d</string><string name="xlistview_footer_hint_ready">lose to load more</string><string name="xlistview_header_hint_ready">lose to refresh</string><string name="xlistview_header_hint_loading">loading</string><string name="app_name">devilfish</string><string name="register_success">register_success</string><string name="select">select</string><string name="camera_sdcard_not_found">camera_sdcard_not_found</string></file><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="PullToRefresh">
+
+        
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        
+        <attr format="reference" name="ptrDrawable"/>
+
+        
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+
+        
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable><declare-styleable name="ProgressCircular">
+        <attr format="boolean" name="matProg_progressIndeterminate"/>
+        <attr format="color" name="matProg_barColor"/>
+        <attr format="float" name="matProg_spinSpeed"/>
+        <attr format="integer" name="matProg_barSpinCycleTime"/>
+        <attr format="dimension" name="matProg_circleRadius"/>
+        <attr format="boolean" name="matProg_fillRadius"/>
+        <attr format="dimension" name="matProg_barWidth"/>
+        <attr format="boolean" name="matProg_linearProgress"/>
+    </declare-styleable></file><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values/ids.xml" qualifiers=""><item name="scrollview" type="id"/><item name="webview" type="id"/><item name="gridview" type="id"/></file><file path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/values/vpi__attrs.xml" qualifiers=""><attr format="dimension" name="strokeWidth"/><declare-styleable name="ViewPagerIndicator">
+        
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiIconPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable><attr format="color" name="unselectedColor"/><declare-styleable name="CirclePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr format="color" name="fillColor"/>
+        
+        <attr format="color" name="pageColor"/>
+        
+        <attr name="android:orientation"/>
+        
+        <attr format="dimension" name="radius"/>
+        
+        <attr format="boolean" name="snap"/>
+        
+        <attr format="color" name="strokeColor"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><attr format="color" name="selectedColor"/><attr format="boolean" name="centered"/><declare-styleable name="LinePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr name="unselectedColor"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="dimension" name="lineWidth"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr format="dimension" name="gapWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="UnderlinePageIndicator">
+        
+        <attr format="boolean" name="fades"/>
+        
+        <attr format="integer" name="fadeDelay"/>
+        
+        <attr format="integer" name="fadeLength"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="TitlePageIndicator">
+        
+        <attr format="dimension" name="clipPadding"/>
+        
+        <attr format="color" name="footerColor"/>
+        
+        <attr format="dimension" name="footerLineHeight"/>
+        
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        
+        <attr format="dimension" name="footerPadding"/>
+        
+        <attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="boolean" name="selectedBold"/>
+        
+        <attr name="android:textColor"/>
+        
+        <attr name="android:textSize"/>
+        
+        <attr format="dimension" name="titlePadding"/>
+        
+        <attr format="dimension" name="topPadding"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable></file><file name="default_ptr_flip" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-xhdpi/default_ptr_flip.png" qualifiers="xhdpi-v4" type="drawable"/><file name="icon_loading" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-xhdpi/icon_loading.png" qualifiers="xhdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-xhdpi/default_ptr_rotate.png" qualifiers="xhdpi-v4" type="drawable"/><file name="indicator_arrow" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-xhdpi/indicator_arrow.png" qualifiers="xhdpi-v4" type="drawable"/><file name="default_ptr_flip" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-hdpi/default_ptr_flip.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-hdpi/default_ptr_rotate.png" qualifiers="hdpi-v4" type="drawable"/><file name="xlistview_arrow" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-hdpi/xlistview_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="indicator_arrow" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-hdpi/indicator_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_flip" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-mdpi/default_ptr_flip.png" qualifiers="mdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-mdpi/default_ptr_rotate.png" qualifiers="mdpi-v4" type="drawable"/><file name="indicator_arrow" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-mdpi/indicator_arrow.png" qualifiers="mdpi-v4" type="drawable"/></source><source path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/generated/res/rs/debug"/><source path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="ProgressCircular"><attr format="boolean" name="matProg_progressIndeterminate"/><attr format="color" name="matProg_barColor"/><attr format="float" name="matProg_spinSpeed"/><attr format="integer" name="matProg_barSpinCycleTime"/><attr format="dimension" name="matProg_circleRadius"/><attr format="boolean" name="matProg_fillRadius"/><attr format="dimension" name="matProg_barWidth"/><attr format="boolean" name="matProg_linearProgress"/></declare-styleable><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable><declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable><declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable></configuration></mergedItems></merger>

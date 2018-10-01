@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/jniLibs"/><source path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/libs"><file name="photoview1.2.2.jar" path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/libs/photoview1.2.2.jar"/></source></dataSet><dataSet config="release"><source path="/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/release/jniLibs"/></dataSet></merger>

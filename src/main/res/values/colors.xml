@@ -1,0 +1,132 @@
+<resources>
+    <color name="app_color">#2196f3</color>
+    <color name="title_color">#1a1a1a</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_black_6">#666666</color>
+    <color name="light_black_3">#333333</color>
+    <color name="light_black_9">#999999</color>
+
+    <color name="color_2196f3">#2196f3</color>
+    <color name="color_808080">#808080</color>
+
+    <color name="gray_f0f0f0">#f0f0f0</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="alpha_black_5">#08000000</color>
+    <color name="alpha_black_10">#19000000</color>
+    <color name="alpha_black_20">#33000000</color>
+    <color name="alpha_black_30">#48000000</color>
+    <color name="alpha_black_40">#64000000</color>
+    <color name="alpha_black_50">#80000000</color>
+    <color name="alpha_black_60">#AA000000</color>
+    <color name="alpha_black_75">#BF000000</color>
+    <color name="alpha_black_80">#CC000000</color>
+    <color name="alpha_100">#00FFFFFF</color>
+    <color name="alpha_white_25">#40FFFFFF</color>
+    <color name="alpha_white_30">#4CFFFFFF</color>
+    <color name="alpha_white_50">#80FFFFFF</color>
+    <color name="alpha_white_75">#BFFFFFFF</color>
+    <color name="alpha_white_80">#CCFFFFFF</color>
+    <color name="alpha_white_90">#E5FFFFFF</color>
+
+    <color name="oa_divider">#d4d4d4</color>
+    <color name="bottom_bar_bg">#F8F8F8</color>
+    <color name="top_bar_color">#30AFE3</color>
+    <color name="default_background">#f0f0f0</color>
+    <color name="list_item_selected">#bdbdbd</color>
+
+    <color name="orange">#FC804C</color>
+    <color name="light_red">#F46452</color>
+    <color name="light_blue">#4C74A1</color>
+
+    <!-- calendar -->
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+
+
+    <!-- 环信 -->
+    <color name="common_top_bar_blue">#4ebcd3</color>
+    <color name="btn_login_normal">#00acff</color>
+    <color name="btn_login_pressed">#46678d</color>
+    <color name="btn_logout_normal">#d33f3f</color>
+    <color name="btn_logout_pressed">#DA5A4D</color>
+    <color name="btn_register_normal">#ffffff</color>
+    <color name="btn_register_pressed">#00acff</color>
+    <color name="common_bottom_bar_normal_bg">#2d2f31</color>
+    <color name="common_bottom_bar_selected_bg">#161718</color>
+    <color name="common_botton_bar_blue">#2ea7e0</color>
+    <color name="common_bg">#fcfcfc</color>
+    <color name="btn_pressed_green_solid">#B6DA53</color>
+    <color name="divider_list">#d4d4d4</color>
+    <color name="top_bar_normal_bg">#00acff</color>
+    <color name="error_item_color">#F6EBE6</color>
+    <color name="bottom_bar_normal_bg">#2D2F31</color>
+    <color name="bottom_text_color_normal">#ffffff</color>
+    <color name="btn_white_normal">#f7f8f8</color>
+    <color name="btn_white_pressed">#b5b5b6</color>
+    <color name="btn_green_noraml">#68C270</color>
+    <color name="btn_green_pressed">#6FCD78</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="btn_gray_pressed_status">#b5b5b6</color>
+    <color name="btn_gray_pressed">#666667</color>
+    <color name="btn_blue_normal">#1e90ff</color>
+    <color name="btn_blue_pressed">#0066FF</color>
+    <color name="gray_pressed">#b5b5b6</color>
+    <color name="gray_normal">#666667</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="voip_interface_text_color">#bababa</color>
+    <color name="black_deep">#FF000000</color>
+    <color name="btn_answer_pressed">#4ebcd3</color>
+    <color name="btn_answer_normal">#2dafa3</color>
+
+    <!-- calendar -->
+    <color name="calendar_week">#A8A8A8</color>
+    <color name="calendar_last_month">#E2E2E2</color>
+
+    <color name="psts_text_selected_color">#f03737</color>
+
+    <!-- channel -->
+    <item name="subscribe_item_text_color_normal_night" type="color">@color/default_text_night
+    </item>
+
+    <color name="default_text_night">#ff747474</color>
+    <color name="subscribe_item_text_color_pressed_night">#ff303030</color>
+    <color name="subscribe_item_selected_stroke_night">#ffbc494d</color>
+    <color name="subscribe_item_drag_stroke">#ffd2d2d2</color>
+    <color name="subscribe_item_drag_bg">#fff5f5f5</color>
+    <color name="subscribe_item_selected_bg">#ffffffff</color>
+    <color name="subscribe_item_selected_stroke">#ffcc3131</color>
+    <color name="subscribe_item_disabled_stroke">#ffd9d9d9</color>
+    <color name="subscribe_item_disabled_bg">#ffefefef</color>
+    <color name="subscribe_item_pressed_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_pressed_bg">#fff9f9f9</color>
+    <color name="subscribe_item_normal_stroke">#ffcdcdcd</color>
+    <color name="subscribe_item_normal_bg">#fff5f5f5</color>
+
+    <item name="subscribe_item_text_color_normal" type="color">@color/default_text</item>
+
+    <color name="default_text">#ff454545</color>
+    <color name="subscribe_item_text_color_pressed">#ffb9b9b9</color>
+    <color name="category_subscribe_text">#ffffffff</color>
+    <color name="drawer_item_bg">#ff5d5d5d</color>
+    <color name="drawer_line_color">#ff444444</color>
+    <color name="title_text_color">#ffffffff</color>
+    <color name="subscribe_tip_text">#ff2e2e2e</color>
+    <color name="subscribe_activity_bg">#ffefefef</color>
+    <color name="subscribe_bg">#fff5f5f5</color>
+    <color name="subscribe_seperate_line">#ffcdcdcd</color>
+
+    <color name="color_ff544a">#ff544a</color>
+    <color name="color_F2F7FD">#F2F7FD</color>
+</resources>

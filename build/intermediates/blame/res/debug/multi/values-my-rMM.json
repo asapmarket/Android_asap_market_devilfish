@@ -1,0 +1,235 @@
+[
+    {
+        "outputFile": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 60,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 107,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 107,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 116,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 116,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 82,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 553,
+                        "endColumn": 82,
+                        "endOffset": 631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 109,
+                    "endOffset": 579
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 109,
+                        "endOffset": 741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 584,
+                    "endColumn": 121,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 746,
+                        "endColumn": 121,
+                        "endOffset": 863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endColumn": 112,
+                    "endOffset": 814
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 868,
+                        "endColumn": 112,
+                        "endOffset": 976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 819,
+                    "endColumn": 92,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 92,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 91,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1074,
+                        "endColumn": 91,
+                        "endOffset": 1161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1004,
+                    "endColumn": 94,
+                    "endOffset": 1094
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endColumn": 94,
+                        "endOffset": 1256
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1099,
+                    "endColumn": 91,
+                    "endOffset": 1186
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1261,
+                        "endColumn": 91,
+                        "endOffset": 1348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1191,
+                    "endColumn": 100,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/values-my-rMM/values-my-rMM.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1353,
+                        "endColumn": 100,
+                        "endOffset": 1449
+                    }
+                }
+            }
+        ]
+    }
+]

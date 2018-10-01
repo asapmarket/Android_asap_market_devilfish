@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/drawable/anim_loading.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/drawable/anim_loading.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/drawable/mdtp_material_button_background.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/drawable/mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/drawable/mdtp_done_background_color.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/drawable/mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/drawable/mdtp_done_background_color_dark.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/drawable/mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/drawable/mdtp_material_button_selected.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/drawable/mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/drawable/bg_progressbar.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/drawable/bg_progressbar.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/drawable/icon_loading_fail.png",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/drawable/icon_loading_fail.png"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/drawable/bg_list_selector.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/drawable/bg_list_selector.xml"
+    }
+]

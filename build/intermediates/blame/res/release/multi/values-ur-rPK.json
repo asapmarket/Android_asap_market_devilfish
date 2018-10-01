@@ -1,0 +1,235 @@
+[
+    {
+        "outputFile": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ur-rPK/values-ur-rPK.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 60,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 104,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 104,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 113,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 113,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 79,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 547,
+                        "endColumn": 79,
+                        "endOffset": 622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 110,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 627,
+                        "endColumn": 110,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endColumn": 121,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 738,
+                        "endColumn": 121,
+                        "endOffset": 855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endColumn": 109,
+                    "endOffset": 803
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 860,
+                        "endColumn": 109,
+                        "endOffset": 965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 808,
+                    "endColumn": 97,
+                    "endOffset": 901
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 970,
+                        "endColumn": 97,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 906,
+                    "endColumn": 92,
+                    "endOffset": 994
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1068,
+                        "endColumn": 92,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 999,
+                    "endColumn": 92,
+                    "endOffset": 1087
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 92,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1092,
+                    "endColumn": 89,
+                    "endOffset": 1177
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1254,
+                        "endColumn": 89,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1182,
+                    "endColumn": 99,
+                    "endOffset": 1277
+                },
+                "from": {
+                    "file": "/Users/xusheng3/.android/build-cache/060081c70d04d2bf62f9a19ef4ef8725860aedeb/output/res/values-ur-rPK/values-ur-rPK.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1344,
+                        "endColumn": 99,
+                        "endOffset": 1439
+                    }
+                }
+            }
+        ]
+    }
+]

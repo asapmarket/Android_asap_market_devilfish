@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/release/drawable-mdpi-v4/default_ptr_flip.png",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-mdpi/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/release/drawable-mdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-mdpi/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/release/drawable-mdpi-v4/indicator_arrow.png",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/src/main/res/drawable-mdpi/indicator_arrow.png"
+    }
+]

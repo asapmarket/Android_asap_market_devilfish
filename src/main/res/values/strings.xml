@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">devilfish</string>
+    <string name="number_part">%1$d/%2$d</string>
+    <!-- 下拉刷新 -->
+    <string name="xlistview_header_hint_normal">pull to refresh</string>
+    <string name="xlistview_header_hint_ready">lose to refresh</string>
+    <string name="xlistview_header_hint_loading">loading</string>
+    <string name="xlistview_footer_hint_normal">pull to load more</string>
+    <string name="xlistview_footer_hint_ready">lose to load more</string>
+
+    <string name="select">select</string>
+    <string name="camera_sdcard_not_found">camera_sdcard_not_found</string>
+
+    <string name="verify_code_sending">sending code(%1$s)</string>
+
+    <string name="register_success">register_success</string>
+</resources>

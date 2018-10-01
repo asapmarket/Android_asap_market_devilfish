@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/layout_load_more.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/layout/layout_load_more.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/list_item_pictures.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/layout/list_item_pictures.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/mdtp_date_picker_header_view.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/layout/mdtp_date_picker_header_view.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/layout_indicator.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/layout/layout_indicator.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/mdtp_time_title_view.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/layout/mdtp_time_title_view.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/xlistview_footer.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/mdtp_date_picker_view_animator.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/layout/mdtp_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/mdtp_date_picker_selected_date.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/layout/mdtp_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/xlistview_header.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/mdtp_time_header_label.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/layout/mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/mdtp_time_picker_dialog.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/layout/mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/mdtp_year_label_text_view.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/layout/mdtp_year_label_text_view.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/mdtp_done_button.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/layout/mdtp_done_button.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/mdtp_date_picker_dialog.xml",
+        "source": "/Users/xusheng3/.android/build-cache/24d0931e5b9cd1689fa0e03b9e5c43e52cba861c/output/res/layout/mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/activity_pictures.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/layout/activity_pictures.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/res/merged/androidTest/debug/layout/layout_indeterminate_dialog.xml",
+        "source": "/Users/xusheng3/xusheng/mhysa/waimai/Waimai/devilfish/build/intermediates/bundles/debug/res/layout/layout_indeterminate_dialog.xml"
+    }
+]
